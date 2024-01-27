@@ -1,8 +1,8 @@
 # Applied Data Science @ Columbia
 ## Fall 2024
-## Project 1: What made you happy today?
+## Project 1: A Python Data Story on Happy Moments
 
-![image](figs/title.jpeg)
+![image](./figs/wordcloud.png)
 
 ### [Project Description](doc/Proj1_desc.md)
 This is the first and only *individual* (as opposed to *team*) this semester. 
