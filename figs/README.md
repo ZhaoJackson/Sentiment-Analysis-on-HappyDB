@@ -1,6 +1,8 @@
 # ADS Project 1: What made you happy today?
 ### Figs folder
 
-The figs directory contains the figures. This directory only contains generated files; that is, one should always be able to delete the contents and regenerate them.
+This folder includes a folder named word_frequency_compare which compares male and female word frequency across the United States for each age value
 
-![image](./GWspeech.jpg)
+Here's an example of the image in this folder (using words 'happy'):
+
+![image](./word_frequency_compare/happy.jpg)
