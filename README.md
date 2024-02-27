@@ -1,15 +1,10 @@
-# Applied Data Science @ Columbia
-## Spring 2024
 ## Zichen Zhao (UNI: zz3119)
-## Project 1: Use of Words across Age Span in the United States
+## NLP Project: Use of Words across Age Span in the United States
 
 ![image](./figs/wordcloud_new.jpg)
 
 
 ### [Project Description](doc/Proj1_desc.md)
-This is the first and only *individual* (as opposed to *team*) this semester. 
-
-Term: Spring 2024
 
 + Project title: What Made Me Happy Today? Use of Words across Age Span in the United States
 + This project is conducted by Zichen Zhao
