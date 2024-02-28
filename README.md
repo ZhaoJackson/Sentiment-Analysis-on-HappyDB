@@ -1,4 +1,3 @@
-## Zichen Zhao (UNI: zz3119)
 ## NLP Project: Use of Words across Age Span in the United States
 
 ![image](./figs/wordcloud_new.jpg)
@@ -35,8 +34,6 @@ These findings underscore the complexity of sentiment expression as influenced b
 1. Sentiment analysis primarily focuses on the presence of specific words, which may overlook the contextual nuances that give meaning to those words. This could lead to misinterpretations of the sentiments actually intended by the individuals.
 2. Focusing exclusively on the U.S. limits the generalizability of the findings to other cultures. Emotional expression and sentiment word usage can vary significantly across different cultural backgrounds, affecting the applicability of the insights globally.
 3. While sentiment analysis excels at identifying quantitative patterns in word usage, it may miss qualitative aspects of sentiment expression, such as intensity, sincerity, and the complexity of emotions that are not easily captured through word frequency alone.
-
-Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
 ```
 proj/
