@@ -1,0 +1,23 @@
+# Core data analysis packages
+pandas>=2.3.2
+numpy>=1.26.4
+scipy>=1.13.1
+
+# Statistical analysis
+statsmodels>=0.14.5
+
+# Natural Language Processing
+nltk>=3.9.1
+gensim>=4.3.3
+textblob>=0.18.0
+
+# Machine Learning
+scikit-learn>=1.3.0
+
+# Visualization
+matplotlib>=3.10.3
+wordcloud>=1.9.3
+
+# Additional utilities
+collections
+os
